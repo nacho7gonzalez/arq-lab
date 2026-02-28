@@ -5,4 +5,4 @@ It implements a _Reverse Polish Notation Calculator_ in C and Intel x86 assembly
 
 ## Authors
 
-- [@IgnacioGonzalez](https://www.linkedin.com/in/ignaciogonzalez-eng)
+- [Ignacio Gonzalez](https://www.linkedin.com/in/ignaciogonzalez-eng)
